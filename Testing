@@ -1,0 +1,4 @@
+Testing.Create a zap that sends email to your CPP email address with the following details whenever the new commit occurs to the repository created above:
+Subject: New commits on GitHub
+Body should mention commit message, Committer Name and URL
+Turn the Zaps you created on and test them to make sure they operate correctly. 
